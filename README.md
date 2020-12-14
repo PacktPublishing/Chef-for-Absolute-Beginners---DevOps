@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/chef-for-absolute-beginners-devops-video/9781838554040)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Chef-for-Absolute-Beginners---DevOps
 Code repository for Chef for Absolute Beginners - DevOps, published by Packt
 # Chef for Absolute Beginners - DevOps
